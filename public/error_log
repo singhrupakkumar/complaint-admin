@@ -1,0 +1,9 @@
+[10-Apr-2023 09:59:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.0.33. in /home/a200827w/public_html/dev.twentyfirstgen.com/tour/vendor/composer/platform_check.php on line 24
+[11-Jun-2023 10:32:17 UTC] PHP Warning:  require(/home/a200827w/public_html/dev.twentyfirstgen.com/mc-panchkula/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/a200827w/public_html/dev.twentyfirstgen.com/mc-panchkula/public/index.php on line 34
+[11-Jun-2023 10:32:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a200827w/public_html/dev.twentyfirstgen.com/mc-panchkula/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/a200827w/public_html/dev.twentyfirstgen.com/mc-panchkula/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/a200827w/public_html/dev.twentyfirstgen.com/mc-panchkula/public/index.php on line 34
+[14-Jun-2023 12:46:06 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/a200827w/public_html/dev.twentyfirstgen.com/complaint-admin/app/Http/Controllers/Admin/UsersController.php on line 77
+[14-Jun-2023 12:46:29 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/a200827w/public_html/dev.twentyfirstgen.com/complaint-admin/app/Http/Controllers/Admin/UsersController.php on line 77
+[14-Jun-2023 12:46:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/a200827w/public_html/dev.twentyfirstgen.com/complaint-admin/app/Http/Controllers/Admin/UsersController.php on line 77
